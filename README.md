@@ -1,7 +1,10 @@
+ArchHack Hackathon 2016 Project. Team: Charlie Chenyu Zhang; Yashasvi Rana; Muhammad Tahsin Sharif; Haonan Song.
+This is a ChatBot project using Heroku service and Facebook Messenger ChatBot API. Providing users some emergency treatments advices.
+
 Classification of Tissue Stains
 ===============================
 
-This demo was prepared by Shane Carr for ArchHacks 2016.  For more information, see [this presentation](https://docs.google.com/presentation/d/1dFckNy5cX30jyR-xMBNz4qJk3HfXt5WL0ZkdfSm1nhU/edit?usp=sharing).
+for more information, see [this presentation](https://docs.google.com/presentation/d/1dFckNy5cX30jyR-xMBNz4qJk3HfXt5WL0ZkdfSm1nhU/edit?usp=sharing).
 
 Dependencies:
 
