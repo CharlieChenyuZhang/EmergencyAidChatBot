@@ -1,0 +1,9 @@
+var injuries = [{
+  "injury": "Wasp string",
+  "solution": "Apply ice"
+  },
+  {
+  "injury": "Burn",
+  "solution": "Apply cold water"
+
+}];
